@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "i18next": "^25.6.3",
+    "next-i18next": "^15.4.2"
+  }
+}
